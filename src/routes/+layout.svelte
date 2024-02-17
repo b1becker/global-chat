@@ -3,7 +3,8 @@
 </script>
 
 <main class="app">
-	qwds
+	<slot></slot>
+
 </main>
 
 <style>
